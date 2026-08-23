@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Devarapalli</h1>
-<h3 align="center">🎓 Computer Science Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast</h3>
+<h3 align="center">🎓 Computer Science Student | 💻 Full Stack Developer with Ai  | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Next.js+%7C+React+Developer;Java+%7C+Python+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" />
