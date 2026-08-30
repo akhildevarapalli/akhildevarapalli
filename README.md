@@ -1,516 +1,93 @@
-Act as a **Senior UI/UX Designer, Personal Branding Expert, GitHub Profile Designer, and GitHub README Specialist**.
-
-Create a **premium, recruiter-friendly GitHub Profile README.md** for my GitHub profile.
-
-### Profile Information
-
-* Name: **Akhil Devarapalli**
-* Role: **Full Stack Web Developer**
-* Location: **India**
-* Status: **Computer Science Student / Fresher**
-* Email: **[devarapalliakhil79@gmail.com](mailto:devarapalliakhil79@gmail.com)**
-* GitHub: **https://github.com/akhildevarapalli**
-* LinkedIn: **https://linkedin.com/in/yourprofile**
-* Portfolio: **https://yourportfolio.com**
-
-### Main Goal
-
-Create a README that looks like a **professional developer portfolio directly on GitHub**.
-
-It should immediately communicate:
-
-* Who I am
-* What I build
-* My technical skills
-* My current learning
-* My projects
-* My GitHub activity
-* How recruiters can contact me
-
-The design should be **modern, premium, clean, dark-theme compatible, recruiter-friendly, and visually impressive without looking overcrowded**.
-
----
-
-# IMPORTANT GITHUB COMPATIBILITY RULES
-
-The README must render correctly on the actual GitHub website.
-
-Use:
-
-* Standard Markdown
-* GitHub-supported HTML
-* Shields.io badges
-* skillicons.dev
-* GitHub Readme Stats
-* GitHub Streak Stats
-* GitHub Profile Trophy
-* Contribution Snake
-
-Do NOT use:
-
-* CSS
-* JavaScript
-* `<style>` tags
-* unsupported HTML
-* complicated nested HTML
-* fake UI components
-* placeholder SVG code
-* unnecessary `<table>` layouts that may break GitHub rendering
-* Markdown code fences around normal README content
-
-Use simple, reliable HTML such as:
-
-```html
-<p align="center">
-...
-</p>
-```
-
-Images must use normal:
-
-```markdown
-![Alt Text](IMAGE_URL)
-```
-
-or:
-
-```html
-<img src="IMAGE_URL" alt="Alt Text">
-```
-
----
-
-# 1. HERO SECTION
-
-Create a strong hero section containing:
-
-**Akhil Devarapalli**
-
-**Full Stack Web Developer • Computer Science Student • AI & Technology Enthusiast**
-
-Include a professional animated typing banner using:
-
-```text
-https://readme-typing-svg.demolab.com/
-```
-
-Typing messages:
-
-* Full Stack Web Developer
-* React & Next.js Developer
-* Java & Python Programmer
-* AI & Technology Enthusiast
-* Building Real-World Web Applications
-* Always Learning New Technologies
-
-Add professional GitHub and Email badges.
-
-Keep emojis minimal.
-
----
-
-# 2. ABOUT ME
-
-Create a concise recruiter-focused introduction.
-
-Mention:
-
-* Computer Science student
-* Full Stack Web Development
-* React
-* Next.js
-* Node.js
-* AI
-* Cloud Computing
-* DevOps
-* System Design
-* Real-world problem solving
-* Open-source/collaboration interest
-* Continuous learning
-
-Use clean bullet points.
-
----
-
-# 3. TECH STACK
-
-Create a visually organized technology section.
-
-Use **skillicons.dev** icons.
-
-### Languages
-
-* Java
-* Python
-* JavaScript
-* TypeScript
-
-### Frontend
-
-* HTML
-* CSS
-* Bootstrap
-* Tailwind CSS
-* React
-* Next.js
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Databases
-
-* MongoDB
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Docker
-* Linux
-* Postman
-
-Do NOT make this section excessively large.
-
----
-
-# 4. GITHUB ANALYTICS
-
-Add:
-
-1. GitHub Stats
-2. GitHub Streak
-3. Top Languages
-
-Use:
-
-```text
-https://github-readme-stats.vercel.app/
-```
-
-and:
-
-```text
-https://github-readme-streak-stats.herokuapp.com/
-```
-
-Username:
-
-```text
-akhildevarapalli
-```
-
-Use a dark-compatible theme such as `tokyonight`.
-
-Keep the statistics section visually balanced.
-
----
-
-# 5. CONTRIBUTION SNAKE
-
-Include a GitHub Contribution Snake section.
-
-Use:
-
-```text
-https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake.svg
-```
-
-For dark mode also support:
-
-```text
-https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake-dark.svg
-```
-
-Use a GitHub-compatible `<picture>` element:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="...">
-  <source media="(prefers-color-scheme: light)" srcset="...">
-  <img src="..." alt="GitHub Contribution Snake">
-</picture>
-```
-
-Do NOT claim that the Snake will work automatically.
-
-At the end of the README, provide a short comment explaining that the following separate GitHub Actions workflow must exist:
-
-```text
-.github/workflows/snake.yml
-```
-
-The workflow should use:
-
-```text
-Platane/snk@v3
-```
-
-and publish the generated SVG to the `output` branch.
-
-IMPORTANT:
-
-The workflow YAML must NOT be placed inside README.md.
-
----
-
-# 6. FEATURED PROJECTS
-
-Create a clean **Featured Projects** section.
-
-Do NOT use complicated HTML tables.
-
-Use separate project blocks so GitHub renders them reliably.
-
-Create exactly 3 projects:
-
-## Project 1 — Green Basket Store
-
-Description:
-
-A modern full-stack grocery e-commerce platform with:
-
-* Product browsing
-* Search and filtering
-* Shopping cart
-* Checkout
-* Online payments
-* Order tracking
-* Admin dashboard
-* Product management
-* Cloud image uploads
-
-Tech stack:
-
-* React
-* Node.js
-* Express.js
-* MongoDB
-* Razorpay
-
-Add:
-
-**View Code** badge
-
-**Live Demo** badge
-
-IMPORTANT:
-
-Do NOT invent repository or live-demo URLs.
-
-Use clearly marked placeholders:
-
-```text
-YOUR_GREEN_BASKET_GITHUB_REPOSITORY
-YOUR_GREEN_BASKET_LIVE_DEMO
-```
-
----
-
-## Project 2 — RakshaAI
-
-Description:
-
-AI-powered phishing protection platform designed to help users identify suspicious links, messages and online scams.
-
-Features:
-
-* Phishing detection
-* Suspicious URL analysis
-* AI-assisted threat identification
-* Security-focused interface
-* Real-time analysis
-
-Tech stack:
-
-* React
-* JavaScript
-* AI
-* Web Technologies
-
-Add:
-
-**View Code**
-
-**Live Demo**
-
-Use placeholders instead of inventing URLs:
-
-```text
-YOUR_RAKSHAAI_GITHUB_REPOSITORY
-YOUR_RAKSHAAI_LIVE_DEMO
-```
-
----
-
-## Project 3 — AI Web Applications
-
-Description:
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=Akhil%20Devarapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Akhil Devarapalli"> </p> <p align="center"> <a href="https://github.com/akhildevarapalli"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%26+Next.js+Developer;Java+%26+Python+Programmer;AI+%26+Technology+Enthusiast;Building+Real-World+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"> </a> </p> <p align="center"> <strong>Full Stack Web Developer • Computer Science Student • AI & Technology Enthusiast</strong> </p> <p align="center"> <a href="https://github.com/akhildevarapalli"> <img src="https://img.shields.io/badge/GitHub-akhildevarapalli-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="mailto:devarapalliakhil79@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+👨‍💻 About Me
+
+I'm Akhil Devarapalli, a Computer Science student and aspiring Full Stack Web Developer focused on building practical, user-friendly and scalable applications.
+
+🚀 Developing full-stack web applications with React, Next.js and Node.js
+🤖 Exploring Artificial Intelligence and intelligent web applications
+☁️ Learning Cloud Computing, AWS and DevOps
+🏗️ Building knowledge in System Design and scalable application architecture
+💡 Interested in solving real-world problems through technology
+🤝 Open to collaboration, open-source projects and learning opportunities
+📚 Continuously improving my skills through hands-on projects
+🛠️ Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Languages"> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" alt="Frontend Technologies"> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" alt="Development Tools"> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhildevarapalli&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhildevarapalli&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildevarapalli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"> </p>
+🐍 Contribution Activity
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </picture> </p>
+
+Note: The contribution snake requires a separate GitHub Actions workflow at .github/workflows/snake.yml using Platane/snk@v3 to generate the SVG and publish it to the output branch. The workflow YAML should not be placed inside this README.
+
+🚀 Featured Projects
+🛒 Green Basket Store
+
+A modern full-stack grocery e-commerce platform designed to provide a smooth online shopping experience.
+
+Features
+
+Product browsing
+Search and filtering
+Shopping cart
+Checkout
+Online payments
+Order tracking
+Admin dashboard
+Product management
+Cloud image uploads
+
+Tech Stack
+
+React Node.js Express.js MongoDB Razorpay
+
+<p> <a href="YOUR_GREEN_BASKET_GITHUB_REPOSITORY"> <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Green Basket Code"> </a> <a href="YOUR_GREEN_BASKET_LIVE_DEMO"> <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Green Basket Live Demo"> </a> </p>
+🛡️ RakshaAI
+
+An AI-powered phishing protection platform designed to help users identify suspicious links, messages and online scams.
+
+Features
+
+Phishing detection
+Suspicious URL analysis
+AI-assisted threat identification
+Security-focused interface
+Real-time analysis
+
+Tech Stack
+
+React JavaScript AI Web Technologies
+
+<p> <a href="YOUR_RAKSHAAI_GITHUB_REPOSITORY"> <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View RakshaAI Code"> </a> <a href="YOUR_RAKSHAAI_LIVE_DEMO"> <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RakshaAI Live Demo"> </a> </p>
+🤖 AI Web Applications
 
 A collection of modern AI-powered web applications focused on intelligent automation, intuitive interfaces and solving practical real-world problems.
 
-Tech stack:
+Tech Stack
 
-* Next.js
-* React
-* Node.js
-* AI
+Next.js React Node.js AI
 
-Add:
+<p> <a href="https://github.com/akhildevarapalli"> <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github" alt="View AI Projects"> </a> </p>
+📚 Currently Learning
+<p> <img src="https://skillicons.dev/icons?i=python,aws,docker,linux" alt="Currently Learning"> </p>
+🤖 Artificial Intelligence — Exploring intelligent applications and AI-powered solutions
+🏗️ System Design — Learning scalable software architecture
+🐳 Docker — Containerization and application deployment
+☁️ AWS — Cloud infrastructure and services
+🏆 Developer Focus
+<p align="center"> <img src="https://img.shields.io/badge/Full%20Stack-Development-00C6FF?style=for-the-badge" alt="Full Stack Development"> <img src="https://img.shields.io/badge/Artificial-Intelligence-7F00FF?style=for-the-badge" alt="Artificial Intelligence"> <img src="https://img.shields.io/badge/Cloud%20%26-DevOps-4285F4?style=for-the-badge" alt="Cloud and DevOps"> <img src="https://img.shields.io/badge/Continuous-Learning-00C853?style=for-the-badge" alt="Continuous Learning"> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akhildevarapalli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Profile Trophies"> </p>
+📬 Contact
+<p align="center"> <a href="https://github.com/akhildevarapalli"> <img src="https://img.shields.io/badge/GitHub-akhildevarapalli-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"> </a> <a href="mailto:devarapalliakhil79@gmail.com"> <img src="https://img.shields.io/badge/Email-devarapalliakhil79%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
-**View Projects**
+LinkedIn: https://https://www.linkedin.com/in/devarapalli-akhil-597787324//in/yourprofile — placeholder until the real profile URL is provided.
+Portfolio: https://yourportfolio.com — placeholder until the real portfolio URL is provided.
 
-pointing to:
-
-```text
-https://github.com/akhildevarapalli
-```
-
-Do not invent a separate repository.
-
----
-
-# 7. CURRENTLY LEARNING
-
-Create a visually clean section covering:
-
-* Artificial Intelligence
-* System Design
-* Docker
-* AWS
-* DevOps
-
-Use appropriate skillicons where available.
-
-Keep descriptions short and professional.
-
----
-
-# 8. ACHIEVEMENTS
-
-Add:
-
-```text
-https://github-profile-trophy.vercel.app/
-```
-
-Username:
-
-```text
-akhildevarapalli
-```
-
-Use a dark-compatible theme.
-
-Also add a few professional badges representing:
-
-* Full Stack Development
-* Artificial Intelligence
-* Cloud & DevOps
-* Continuous Learning
-
-Do not fabricate awards, certifications, ranks, company experience, or achievements.
-
----
-
-# 9. CONTACT
-
-Create a clean centered contact section.
-
-Include:
-
-* GitHub
-* LinkedIn
-* Portfolio
-* Email
-
-GitHub must link to:
-
-```text
-https://github.com/akhildevarapalli
-```
-
-Email must link to:
-
-```text
-mailto:devarapalliakhil79@gmail.com
-```
-
-LinkedIn must use:
-
-```text
-https://linkedin.com/in/yourprofile
-```
-
-Portfolio must use:
-
-```text
-https://yourportfolio.com
-```
-
-Clearly keep LinkedIn and Portfolio as placeholders because the real links have not been provided.
-
----
-
-# 10. PROFESSIONAL FOOTER
-
-Create a minimal professional footer:
-
-**Thanks for visiting my profile!**
-
-**Let's build something meaningful together.**
-
-Optionally use a lightweight waving footer image from:
-
-```text
-https://capsule-render.vercel.app/
-```
-
-Do not make the footer oversized.
-
----
-
-# DESIGN SYSTEM
-
-Follow these principles:
-
-* Premium developer portfolio aesthetic
-* Dark-theme compatible
-* Strong visual hierarchy
-* Plenty of whitespace
-* Clean typography
-* Minimal emojis
-* Consistent badge styling
-* No excessive animations
-* No unnecessary sections
-* No fake statistics
-* No fabricated achievements
-* No broken links
-* No unsupported GitHub HTML
-
-Use **blue/cyan/purple technology accents** through badges and external graphics, while keeping the README itself clean.
-
-The README should feel like a **professional software developer portfolio**, not a generic template.
-
----
-
-# VERY IMPORTANT OUTPUT FORMAT
-
-Return **ONLY the complete `README.md` content**.
-
-Do not explain the README.
-
-Do not add commentary before or after it.
-
-Do not wrap the entire README in a Markdown code block.
-
-The final output must be ready to copy directly into:
-
-```text
-akhildevarapalli/akhildevarapalli/README.md
-```
-
-Also provide the separate `snake.yml` workflow content after the README only if explicitly requested; otherwise keep the README focused on the profile itself.
+<p align="center"> <strong>Thanks for visiting my profile!</strong> </p> <p align="center"> <strong>Let's build something meaningful together.</strong> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=100&section=footer" alt="Footer"> </p>
