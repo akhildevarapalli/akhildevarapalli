@@ -1,30 +1,66 @@
+<div align="center">
+
 # 👋 Hi, I'm Akhil Devarapalli
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=CSE+Student;Building+%7C+Learning+%7C+Creating;Exploring+Technology+Through+Projects" alt="Typing animation" />
+### 🎓 CSE Student
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=CSE+Student;Building+%7C+Learning+%7C+Creating;Exploring+Technology+Through+Projects" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:777777&height=180&section=header&text=Akhil%20Devarapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<p>
+  <a href="https://akhil-motion-archive.base44.app">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/akhildevarapalli">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/devarapalli-akhil-597787324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-## 🎓 CSE Student
-
-I'm a Computer Science and Engineering student who enjoys learning through practical projects and continuously improving my technical skills.
+</div>
 
 ---
 
-## 🌐 Portfolio
+## 👨‍💻 About Me
 
-<p align="center">
+I'm **Akhil Devarapalli**, a **Computer Science and Engineering student** interested in learning through practical projects and hands-on development.
+
+I enjoy exploring technology, building projects, solving problems, and continuously improving my technical skills.
+
+### Interests
+
+- 💻 Programming
+- 🌐 Web Development
+- 📊 Data Visualization
+- 🔐 Cybersecurity
+- 🤖 Emerging Technologies
+- 🧩 Problem Solving
+- 🚀 Project Development
+
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
 
 ### 🎬 Motion Archive
 
+My interactive portfolio showcasing my projects and creative web experiences.
+
 <a href="https://akhil-motion-archive.base44.app">
-  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-111111?style=for-the-badge" alt="Explore Portfolio" />
 </a>
 
-</p>
+<br><br>
+
+<a href="https://akhil-motion-archive.base44.app">
+  https://akhil-motion-archive.base44.app
+</a>
+
+</div>
 
 ---
 
@@ -36,10 +72,14 @@ I'm a Computer Science and Engineering student who enjoys learning through pract
 
 ### 🛡️ RakshaAI
 
-AI-powered phishing protection project.
+**AI-Powered Phishing Protection**
 
-<a href="https://github.com/akhildevarapalli/https-raksha-ai-phishing-protection--devarapalliakhi.replit.app">
-<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github" />
+A project focused on identifying phishing websites and helping users stay safer from online scams.
+
+<br>
+
+<a href="https://github.com/akhildevarapalli/https-raksha-ai-phishing-protection--devarapalliiakhi.replit.app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" alt="RakshaAI GitHub" />
 </a>
 
 </td>
@@ -48,10 +88,12 @@ AI-powered phishing protection project.
 
 ### ⚡ Forced Wake
 
-Practical project developed as part of my project-building journey.
+A practical project developed as part of my project-building journey.
+
+<br>
 
 <a href="https://github.com/akhildevarapalli/forced-wake">
-<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" alt="Forced Wake GitHub" />
 </a>
 
 </td>
@@ -62,10 +104,12 @@ Practical project developed as part of my project-building journey.
 
 ### 🏠 Vishwa Glass Tile Zone
 
-Business-oriented web project.
+A business-oriented web project focused on creating a digital presence and user-friendly experience.
+
+<br>
 
 <a href="https://github.com/akhildevarapalli/Vishwa-Glass-Tile-Zone">
-<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" alt="Vishwa Glass Tile Zone GitHub" />
 </a>
 
 </td>
@@ -74,10 +118,12 @@ Business-oriented web project.
 
 ### 🤖 AI Solution Architect
 
-AI-oriented project exploring modern application development.
+A project exploring AI-oriented solutions and modern application development.
+
+<br>
 
 <a href="https://github.com/akhildevarapalli/ai-solution-architect">
-<img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" alt="AI Solution Architect GitHub" />
 </a>
 
 </td>
@@ -86,13 +132,24 @@ AI-oriented project exploring modern application development.
 
 ---
 
-## 💻 Skills
+## 🛠️ Technologies & Skills
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,git,github" />
+### Programming & Web
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,git,github" alt="Technology skills" />
+
+<br><br>
+
+### Other Areas
+
+<img src="https://img.shields.io/badge/Data%20Visualization-111111?style=for-the-badge" alt="Data Visualization" />
+<img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/AI%20Tools-111111?style=for-the-badge" alt="AI Tools" />
+
+</div>
 
 ---
 
@@ -102,72 +159,104 @@ AI-oriented project exploring modern application development.
 
 **Computer Science and Engineering**
 
-Dhanekula Institute of Engineering and Technology
+**Dhanekula Institute of Engineering and Technology**
+
+### Academic Path
 
 **Intermediate → B.Tech**
 
 ---
 
-## 📊 GitHub Activity
+## 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhildevarapalli&show_icons=true&hide_border=true&theme=default" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildevarapalli&layout=compact&hide_border=true&theme=default" />
-
-</p>
+- Programming
+- Web Development
+- Data Visualization
+- Cybersecurity
+- Emerging Technologies
+- Problem Solving
+- Project Development
 
 ---
 
-## 🐍 Contribution Animation
+## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=akhildevarapalli&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Akhil's GitHub Statistics" />
 
-</p>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildevarapalli&layout=compact&hide_border=true&theme=default" alt="Akhil's Top Languages" />
+
+</div>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhildevarapalli&bg_color=ffffff&color=111111&line=111111&point=555555&area=true&hide_border=true" alt="Akhil's GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akhildevarapalli/akhildevarapalli/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🎯 My Approach
+
+<div align="center">
+
+### LEARN → BUILD → TEST → IMPROVE → REPEAT
+
+</div>
+
+I believe the best way to learn technology is by building practical projects, experimenting with ideas, understanding mistakes, and continuously improving.
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:devarapalliakhil79@email.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/devarapalli-akhil-597787324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/akhildevarapalli">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://akhil-motion-archive.base44.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:777777,100:111111&height=100&section=footer" />
+## ⭐ Thanks for visiting my profile!
 
-</p>
+### AKHIL DEVARAPALLI
 
-<p align="center">
+<br>
 
-### ⭐ Learn • Build • Improve
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:777777&height=100&section=footer" alt="Footer animation" />
 
-**AKHIL DEVARAPALLI — CSE STUDENT**
-
-</p>
+</div>
