@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=Akhil%20Devarapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Akhil Devarapalli"> </p> <p align="center"> <a href="https://github.com/akhildevarapalli"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%26+Next.js+Developer;Java+%26+Python+Programmer;AI+%26+Technology+Enthusiast;Building+Real-World+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"> </a> </p> <p align="center"> <strong>Full Stack Web Developer • Computer Science Student • AI & Technology Enthusiast</strong> </p> <p align="center"> <a href="https://github.com/akhildevarapalli"> <img src="https://img.shields.io/badge/GitHub-akhildevarapalli-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="mailto:devarapalliakhil79@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 👨‍💻 About Me
 
-I'm Akhil Devarapalli, a Computer Science student and aspiring Full Stack Web Developer focused on building practical, user-friendly and scalable applications.
+I'm Akhil Devarapalli, a Computer Science student and aspiring  focused on building practical, user-friendly and scalable applications.
 
-🚀 Developing full-stack web applications with React, Next.js and Node.js
+🚀 Developing full-stack web applications with AI, 
 🤖 Exploring Artificial Intelligence and intelligent web applications
-☁️ Learning Cloud Computing, AWS and DevOps
+☁️ Learning Cloud Computing, 
 🏗️ Building knowledge in System Design and scalable application architecture
 💡 Interested in solving real-world problems through technology
 🤝 Open to collaboration, open-source projects and learning opportunities
@@ -29,7 +29,7 @@ Tools
 Note: The contribution snake requires a separate GitHub Actions workflow at .github/workflows/snake.yml using Platane/snk@v3 to generate the SVG and publish it to the output branch. The workflow YAML should not be placed inside this README.
 
 🚀 Featured Projects
-🛒 Green Basket Store
+🛒 NO LIMITS STORE
 
 A modern full-stack grocery e-commerce platform designed to provide a smooth online shopping experience.
 
@@ -87,7 +87,7 @@ Next.js React Node.js AI
 📬 Contact
 <p align="center"> <a href="https://github.com/akhildevarapalli"> <img src="https://img.shields.io/badge/GitHub-akhildevarapalli-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"> </a> <a href="mailto:devarapalliakhil79@gmail.com"> <img src="https://img.shields.io/badge/Email-devarapalliakhil79%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
-LinkedIn: https://https://www.linkedin.com/in/devarapalli-akhil-597787324//in/yourprofile — placeholder until the real profile URL is provided.
-Portfolio: https://yourportfolio.com — placeholder until the real portfolio URL is provided.
+LinkedIn: https://https://www.linkedin.com/in/devarapalli-akhil-597787324//in/yourprofile 
+Portfolio: https://yourportfolio.com 
 
 <p align="center"> <strong>Thanks for visiting my profile!</strong> </p> <p align="center"> <strong>Let's build something meaningful together.</strong> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=100&section=footer" alt="Footer"> </p>
